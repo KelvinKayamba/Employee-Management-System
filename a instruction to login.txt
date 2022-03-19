@@ -1,0 +1,11 @@
+How to login into the system 
+
+Admin account: access
+
+Username: kelvin
+Password: kel12KEL
+
+Employee account: access
+
+Username: thoko
+Password: chi123TK
